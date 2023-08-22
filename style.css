@@ -55,8 +55,7 @@ header{
 }
 
 .blocchi-container{
-    width: 90%;
-    height: 100%;
+    width: 80%;
     justify-content: space-around;
     flex-wrap: wrap;
     flex-direction: column;
@@ -88,9 +87,32 @@ header{
 .blocco h3{
     color: #0084fd;
     margin-bottom: 25px;
-    font-size: 41px;
+    font-size: 30px;
 }
 
 .blocco span{
     color: #5a6e7f;
+}
+
+.diviso button{
+    background-color: #0084fd;
+    border: none;
+    border-radius: 14px;
+    padding: 7px 0px;
+    width: 145px;
+    margin: 25px 0px;
+    cursor: pointer;
+    color: white;
+}
+
+.diviso button i{
+    font-size: 15px;
+}
+
+.diviso img{
+    width: 100%;
+}
+
+.blocco i{
+    font-size: 50px;
 }

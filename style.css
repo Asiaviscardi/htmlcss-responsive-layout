@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+    
 }
 
 .flex{
@@ -80,11 +82,13 @@ header{
 .diviso{
     width: 100%;
     justify-content: center;
+    text-align: left;
 }
 
 .blocco h3{
     color: #0084fd;
     margin-bottom: 25px;
+    font-size: 41px;
 }
 
 .blocco span{

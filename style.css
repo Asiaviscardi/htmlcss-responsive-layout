@@ -63,12 +63,12 @@ header{
 }
 
 .blocco{
-    background-color: aquamarine;
+    background-color: #b5ddff;
     margin-bottom: 15px;
-    height: 60px;
     width: 100%;
     justify-content: center;
     align-items: center;
+    border-radius: 16px;
 }
 
 .grande{
@@ -78,5 +78,5 @@ header{
 .diviso{
     width: 100%;
     justify-content: center;
-    align-items: center;
+    text-align: center;
 }

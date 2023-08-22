@@ -69,6 +69,8 @@ header{
     justify-content: center;
     align-items: center;
     border-radius: 16px;
+    text-align: center;
+    padding: 30px 55px;
 }
 
 .grande{
@@ -78,5 +80,13 @@ header{
 .diviso{
     width: 100%;
     justify-content: center;
-    text-align: center;
+}
+
+.blocco h3{
+    color: #0084fd;
+    margin-bottom: 25px;
+}
+
+.blocco span{
+    color: #5a6e7f;
 }
